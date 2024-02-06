@@ -1,0 +1,19 @@
+//
+// Colors
+//
+
+// Override Bootstrap color variables
+
+$orange: #FE7A36;
+
+// Override Bootstrap state colors variables
+
+$primary: $orange;
+
+// Override Bootstrap contrast ratio
+
+$min-contrast-ratio: 1.5;
+
+
+
+// run to update -> node scripts/build-scss.js
