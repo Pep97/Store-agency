@@ -1,4 +1,4 @@
-# Agency
+# Webpix
 
 Agency is a one-page HTML theme for Bootstrap, perfect for creative agencies and professionals. This theme features a clean, modern design with a focus on content and visuals.
 
